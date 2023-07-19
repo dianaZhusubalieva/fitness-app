@@ -1,0 +1,43 @@
+# Flutter/Dart specific
+**/build/
+**/pubspec.lock
+
+# IDE/Editor specific
+.vscode/
+.idea/
+
+# Local configuration and sensitive data
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+*.json
+
+# Logs and debug outputs
+*.log
+*.log.*
+*.log*/
+*.crash
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Generated code
+.dart_tool/
+.dart_tool/**
